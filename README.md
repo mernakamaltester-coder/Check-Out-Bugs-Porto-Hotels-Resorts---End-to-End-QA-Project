@@ -17,3 +17,5 @@ A comprehensive Quality Assurance project for the **Porto Hotels & Resorts** pla
  **POM Design Pattern:** Ensuring clean code, reusability, and easy maintenance.
  **Comprehensive Coverage:** Testing Homepage, Navigation, Booking Search, Accommodation, and Contact forms.
  **Manual Testing Artifacts:** Included professional Test Cases and Bug Reports with Severity/Priority classifications.
+
+ https://docs.google.com/spreadsheets/d/1qGIcvfLGlaTQwqbqgouM5mtjj6sJo-LW2hdVASOFE9A/edit?usp=sharing
